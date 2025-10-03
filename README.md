@@ -1,4 +1,6 @@
 ## Hihi, this is Ty speaking, can you hear me????!!!?!?!?
+<img width="401" height="323" alt="image" src="https://github.com/user-attachments/assets/0631d456-cfb0-44d4-8e7b-2b3ee12f8b16" />
+
 This is my GitHub profile. It's good to see you all 
 
 Here are a few fun facts about me
