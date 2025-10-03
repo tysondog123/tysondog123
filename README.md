@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hihi, this is Ty speaking, can you hear me????!!!?!?!?
+This is my GitHub profile. It's good to see you all 
+
+Here are a few fun facts about me
+*My favorite music artist is ADO 
+*My first console was the PS2 (Yes, it is older than me)
+*My favorite colours are Red, blue, and black
+*A game that I've played too much of 🤔🤔 is probably Overwatch
+*My favorite show is So I'm a Spider, so what (Absolute Peak)🤩
+*My favorite Pokémon is Tinkaton cus BIG HAMMER 🔨
 
 <!--
 **tysondog123/tysondog123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
