@@ -1,7 +1,7 @@
 ## Hihi, this is Ty speaking, can you hear me????!!!?!?!?
 <img width="401" height="323" alt="image" src="https://github.com/user-attachments/assets/0631d456-cfb0-44d4-8e7b-2b3ee12f8b16" />
 
-This is my GitHub profile. It's good to see you all 
+#This is my GitHub profile. It's good to see you all 
 
 Here are a few fun facts about me
 * My favorite music artist is ADO 
@@ -10,6 +10,10 @@ Here are a few fun facts about me
 * A game that I've played too much of 🤔🤔 is probably Overwatch
 * My favorite show is So I'm a Spider, so what (Absolute Peak)🤩
 * My favorite Pokémon is Tinkaton cus BIG HAMMER 🔨
+
+#And Now to the boring stuff 
+#Here's my itchi.io page
+https://tysondog123.itch.io/
 
 <!--
 **tysondog123/tysondog123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
