@@ -14,6 +14,19 @@
 ## And Now to the boring stuff 
 ### Here's my itchi.io page
 https://tysondog123.itch.io/
+All of my Projects from uni are posted on here
+
+The First project was Vermis,
+https://tysondog123.itch.io/vermis
+it was made as part of a 1 week game jam as part of my course work in colabaration with 2 others being
+Molly Telfer:  https://b3rries.itch.io/ and Archie Russell: https://github.com/Gecko280
+
+The second Project i uploaded was So im a Game, So what.
+https://tysondog123.itch.io/so-im-a-game-so-what
+This game was made for another peice of course work and is designed to be like vampier survivors in the So I'm a Spider, so what? world
+all of the assets and code for this were made by myself
+
+
 
 <!--
 **tysondog123/tysondog123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
