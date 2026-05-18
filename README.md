@@ -16,11 +16,13 @@
 https://tysondog123.itch.io/
 All of my Projects from uni are posted on here
 
+##Vermis
 The First project was Vermis,
 https://tysondog123.itch.io/vermis
 it was made as part of a 1 week game jam as part of my course work in colabaration with 2 others being
 Molly Telfer:  https://b3rries.itch.io/ and Archie Russell: https://github.com/Gecko280
 
+## So im a game, So what?
 The second Project i uploaded was So im a Game, So what.
 https://tysondog123.itch.io/so-im-a-game-so-what
 This game was made for another peice of course work and is designed to be like vampier survivors in the So I'm a Spider, so what? world
