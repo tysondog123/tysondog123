@@ -16,24 +16,24 @@
 https://tysondog123.itch.io/
 All of my Projects from uni are posted on here
 
-### Vermis
+## Vermis
 The First project was Vermis,
 https://tysondog123.itch.io/vermis --- https://github.com/Birmingham-City-Uni/guided-game-jam-group-11
 it was made as part of a 1 week game jam as part of my course work in colabaration with 2 others being
 Molly Telfer:  https://b3rries.itch.io/ and Archie Russell: https://github.com/Gecko280
 
-### So im a game, So what?
+## So im a game, So what?
 The second Project i uploaded was So im a Game, So what.
 https://tysondog123.itch.io/so-im-a-game-so-what --- https://github.com/Birmingham-City-Uni/game-programming-game-asset-pipeline-weekly-tysondog123/tree/main/Coursework
 This game was made for another peice of course work and is designed to be like vampier survivors in the So I'm a Spider, so what? world
 all of the assets and code for this were made by myself
 
-### Thirty Minutes
+## Thirty Minutes
 The thierd game was made for the Global game jam with a group of 5. where i was the lead programmer
 https://tysondog123.itch.io/thirty-minutes --- https://github.com/tysondog123/GGJ-Ice-Game
 i was in charge of designing the movemetent system, the event system and the Player Stats
 
-### Nemesis
+## Nemesis
 The fourth game i made was Nemesis as part of a game mechanics Module. for this module i also had to write a dev diary which i have attached to my game on itch
 https://tysondog123.itch.io/nemesis --- https://github.com/tysondog123/GameMechanics
 
