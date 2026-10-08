@@ -3,15 +3,6 @@
 
 ## This is my GitHub profile. It's good to see you all 
 
-### Here are a few fun facts about me
-* My favorite music artist is ADO 
-* My first console was the PS2 
-* My favorite colours are Red, blue, and black
-* A game that I've played too much of 🤔🤔 is probably Minecraft
-* My favorite show is So I'm a Spider, so what (Absolute Peak)🤩
-* My favorite Pokémon is Tinkaton cus BIG HAMMER 🔨
-
-## And Now to the boring stuff 
 ### Here's my itchi.io page
 https://tysondog123.itch.io/
 All of my Projects from uni are posted on here
